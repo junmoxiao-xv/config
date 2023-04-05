@@ -1,0 +1,3 @@
+server:
+  port: 7040
+foo: foo version 1
