@@ -2,7 +2,7 @@ server:
   port: 7040
 spring:
   application:
-    name: demo
+    name: demo-pro
 data:
-  env: demo
-foo: foo version 2
+  env: pro
+foo: foo version 3
